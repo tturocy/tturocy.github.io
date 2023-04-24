@@ -34,10 +34,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
   - publications.md
   - projects.md
-  - vita.pdf
 
 # Exclude from processing.
 # The following items will not be processed, by default.
