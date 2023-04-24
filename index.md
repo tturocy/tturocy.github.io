@@ -35,14 +35,10 @@ my Open Source software package,
 My work incorporates a richer notion of process, which takes into
 account the role that choice architecture, labeling, and social
 context, among others, colour the choice process.
-I am currently pursuing this as a co-I along with colleagues at UEA,
-Nottingham, and Warwick in the
+Previous funding for my work has come as part of the
 [ESRC Network for Integrated Behavioural Science](http://www.behavioural-science.ac.uk),
-under its theme _&quot;The science of consumer behaviour&quot;_.
-From February 2020, my colleague Rose Meleady (UEA School of
-Psychology)
-and I are collaborating in a Knowledge Transfer Partnership (funded by InnovateUK)
-with Anglian Water, to embed knowledge and capacity to develop,
+under its theme _&quot;The science of consumer behaviour&quot;_,
+and from an InnovateUK-funded Knowledge Transfer Partnership
+with my colleague Rose Meleady (UEA Psychology) and Anglian Water,
+to embed knowledge and capacity to develop,
 implement and test behaviour change interventions.
-
-
