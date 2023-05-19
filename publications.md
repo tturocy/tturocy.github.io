@@ -5,10 +5,10 @@ title: Publications
 
 ### Refereed publications of original research
 
-Xue, L., Sitzia, S. and Turocy, T.L. (forthcoming)
+Xue, L., Sitzia, S. and Turocy, T.L. (2023)
 **Concord and contention in a dynamic unstructured bargaining experiment with
 costly conflict**.
-_Journal of Economic Psychology_.
+_Journal of Economic Psychology_ 97, 102631.
 [DOI:
 10.1016/j.joep.2023.102631](https://doi.org/10.1016/j.joep.2023.102631)
 &middot;
