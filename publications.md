@@ -271,3 +271,11 @@ Elsevier Science, 403-420.
   href="http://www.cdam.lse.ac.uk/Reports/Abstracts/cdam-2001-09.html">
 Working paper version LSE-CDAM-2001-09</a>
 
+
+### Other papers
+
+Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A.,
+and the Management Science Reproducibility Collaboration.
+(forthcoming)
+**Reproducibility in Management Science.**
+_Management Science_.
