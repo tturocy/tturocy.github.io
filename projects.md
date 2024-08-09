@@ -23,7 +23,7 @@ title: Projects
 Bland, J.R. and Turocy, T. L.
 **Quantal response equilibrium as a structural model for estimation:
 The missing manual**.
-<a href="../papers/qrefit-20230421.pdf">Version of 21 April 2023</a>
+<a href="../papers/qrefit-20240613.pdf">Version of 13 June 2024</a>
 &middot;
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4425515">
 As SSRN working paper 4425515</a>
@@ -31,9 +31,9 @@ As SSRN working paper 4425515</a>
 <a href="../papers/qrefit-20230421-src.zip">Sample predictor-corrector codes</a>
 
 Xue, L., Sitzia, S. and Turocy, T.L.
-**Bargaining over endowments produced by joint activity:
+**Bargaining over communal endowments after prior interaction:
 Experimental evidence**.
-<a href="../papers/jendow-20211022.pdf">Version of 22 October 2021</a>
+<a href="../papers/jendow-20240331.pdf">Version of 31 March 2024</a>
 
 Rentschler, L. and Turocy, T.L.
 **Tu mihi soli places: An experiment on the competitiveness of
