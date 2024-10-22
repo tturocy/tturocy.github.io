@@ -23,7 +23,7 @@ title: Projects
 Bland, J.R. and Turocy, T. L.
 **Quantal response equilibrium as a structural model for estimation:
 The missing manual**.
-<a href="../papers/qrefit-20240613.pdf">Version of 13 June 2024</a>
+<a href="../papers/qrefit-20241022.pdf">Version of 22 October 2024</a>
 &middot;
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4425515">
 As SSRN working paper 4425515</a>
