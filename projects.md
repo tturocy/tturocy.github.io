@@ -20,6 +20,19 @@ title: Projects
 
 ### Works in progress
 
+Wang, Y., Savani, R., Gu, A., Mascioli, C., Turocy, T.L., and Wellman, M.
+**Market making with learned beta policies.**  5th ACM International Conference
+on AI in Finance (ACAIF 2024), to appear.
+
+Gu, A., Wang, Y., Mascioli, C., Chakraborty, M., Savani, R., Turocy, T.L., and
+Wellman, M.  **The effect of liquidity on the spoofability of financial
+markets.**
+5th ACM International Conference on AI in Finance (ACAIF 2024), to appear.
+
+Sugden, R., Turocy, T.L., and Wang, M.
+**The value of engagement: Measuring preferences between tasks with
+different characteristics**.
+
 Bland, J.R. and Turocy, T. L.
 **Quantal response equilibrium as a structural model for estimation:
 The missing manual**.

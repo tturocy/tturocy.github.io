@@ -18,7 +18,7 @@ _Journal of Economic Psychology_ 97, 102631.
 22-02](https://ueaeco.github.io/working-papers/papers/cbess/UEA-CBESS-22-02.pdf) &middot;
 <a href="../papers/warf-instructions.pdf">Participant instructions</a>
 
-Chowdhury, S.M., Mukherjee, A. and Turocy, T.L. (forthcoming)
+Chowdhury, S.M., Mukherjee, A. and Turocy, T.L. (2022)
 **And the first runner-up is...:
 Comparing winner selection procedures in multi-winner Tullock
 contests**.
@@ -39,9 +39,9 @@ _Games and Economic Behavior_ 136: 31-62.
 <a href="../papers/compsub-20220113.pdf">Final working paper version</a>
 
 Reuben, E., Li, S.X., Suetens, S., Svorenčík, A., Turocy, T.L. and
-Kotsidis, V. (forthcoming)
+Kotsidis, V. (2022)
 **Trends in the publication of experimental economics articles**.
-_Journal of the Economic Science Association_.
+_Journal of the Economic Science Association_ 8:1-15.
 [DOI: 10.1007/s40881-022-00117-z](https://doi.org/10.1007/s40881-022-00117-z)
 &middot;
 <a
@@ -276,6 +276,11 @@ Working paper version LSE-CDAM-2001-09</a>
 
 Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A.,
 and the Management Science Reproducibility Collaboration.
-(forthcoming)
+(2023)
 **Reproducibility in Management Science.**
-_Management Science_.
+_Management Science_ 70(3): 1343-1346.
+
+Fallucchi, F., Marietta Leina, A., Silva, R. and Turocy, T.L.
+**A comment on 'Strategic complexity and the value of thinking by
+D. Gill and V. Prowse (2023)'.**  (2024).  Institute for Replication
+Discussion Paper Series No. 170.
