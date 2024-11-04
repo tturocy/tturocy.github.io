@@ -282,5 +282,6 @@ _Management Science_ 70(3): 1343-1346.
 
 Fallucchi, F., Marietta Leina, A., Silva, R. and Turocy, T.L.
 **A comment on 'Strategic complexity and the value of thinking by
-D. Gill and V. Prowse (2023)'.**  (2024).  Institute for Replication
-Discussion Paper Series No. 170.
+D. Gill and V. Prowse (2023)'.**  (2024).  
+<a href="https://www.econstor.eu/bitstream/10419/303908/1/I4R-DP170.pdf">Institute for Replication
+Discussion Paper Series No. 170</a>.
