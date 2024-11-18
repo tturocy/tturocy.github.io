@@ -5,6 +5,20 @@ title: Publications
 
 ### Refereed publications of original research
 
+Gu, A., Wang, Y., Mascioli, C., Chakraborty, M., Savani, R., Turocy, T.L., and
+Wellman, M.  **The effect of liquidity on the spoofability of financial
+markets.**
+_ICAIF '24: Proceedings of the 5th ACM International Conference on AI
+in Finance_, 239-247.
+[DOI: 10.1145/3677052.3698634](https://dl.acm.org/doi/10.1145/3677052.3698634)
+**Winner, best paper award**
+
+Wang, Y., Savani, R., Gu, A., Mascioli, C., Turocy, T.L., and Wellman, M.
+**Market making with learned beta policies.**
+_ICAIF '24: Proceedings of the 5th ACM International Conference on AI
+in Finance_, 643-651.
+[DOI: 10.1145/3677052.3698623](https://dl.acm.org/doi/10.1145/3677052.3698623)
+
 Xue, L., Sitzia, S. and Turocy, T.L. (2023)
 **Concord and contention in a dynamic unstructured bargaining experiment with
 costly conflict**.
