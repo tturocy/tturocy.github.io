@@ -23,6 +23,8 @@ title: Projects
 Sugden, R., Turocy, T.L., and Wang, M.
 **The value of engagement: Measuring preferences between tasks with
 different characteristics**.
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5065762">
+Version of 12 December 2024, as SSRN working paper 5065762</a>
 
 Bland, J.R. and Turocy, T. L.
 **Quantal response equilibrium as a structural model for estimation:
