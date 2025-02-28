@@ -26,15 +26,6 @@ different characteristics**.
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5065762">
 Version of 12 December 2024, as SSRN working paper 5065762</a>
 
-Bland, J.R. and Turocy, T. L.
-**Quantal response equilibrium as a structural model for estimation:
-The missing manual**.
-<a href="../papers/qrefit-20241022.pdf">Version of 22 October 2024</a>
-&middot;
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4425515">
-As SSRN working paper 4425515</a>
-&middot;
-<a href="../papers/qrefit-20230421-src.zip">Sample predictor-corrector codes</a>
 
 Xue, L., Sitzia, S. and Turocy, T.L.
 **Bargaining over communal endowments after prior interaction:

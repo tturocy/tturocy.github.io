@@ -5,15 +5,28 @@ title: Publications
 
 ### Refereed publications of original research
 
+Bland, J.R. and Turocy, T. L.
+**Quantal response equilibrium as a structural model for estimation:
+The missing manual**. (2025)
+_Games and Economic Behavior_.
+[DOI: 10.1016/j.geb.2025.02.008](https://doi.org/10.1016/j.geb.2025.02.008)
+&middot;
+<a href="../papers/qrefit-20241022.pdf">Final working paper version</a>
+&middot;
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4425515">
+As SSRN working paper 4425515</a>
+&middot;
+<a href="../papers/qrefit-20230421-src.zip">Sample predictor-corrector codes</a>
+
 Gu, A., Wang, Y., Mascioli, C., Chakraborty, M., Savani, R., Turocy, T.L., and
-Wellman, M.  **The effect of liquidity on the spoofability of financial
+Wellman, M. (2024)  **The effect of liquidity on the spoofability of financial
 markets.**
 _ICAIF '24: Proceedings of the 5th ACM International Conference on AI
 in Finance_, 239-247.
 [DOI: 10.1145/3677052.3698634](https://dl.acm.org/doi/10.1145/3677052.3698634)
 **Winner, best paper award**
 
-Wang, Y., Savani, R., Gu, A., Mascioli, C., Turocy, T.L., and Wellman, M.
+Wang, Y., Savani, R., Gu, A., Mascioli, C., Turocy, T.L., and Wellman, M. (2024)
 **Market making with learned beta policies.**
 _ICAIF '24: Proceedings of the 5th ACM International Conference on AI
 in Finance_, 643-651.
