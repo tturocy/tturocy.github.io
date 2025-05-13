@@ -20,17 +20,16 @@ title: Projects
 
 ### Works in progress
 
+Marietta Leina, A., Patel, A., Sugden, R., and Turocy, T.L.
+**Rating rules in the helping game: An axiomatic approach**.
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5252490">
+Version of 13 May 2025, as SSRN working paper 5252490</a>
+
 Sugden, R., Turocy, T.L., and Wang, M.
 **The value of engagement: Measuring preferences between tasks with
 different characteristics**.
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5065762">
 Version of 12 December 2024, as SSRN working paper 5065762</a>
-
-
-Xue, L., Sitzia, S. and Turocy, T.L.
-**Bargaining over communal endowments after prior interaction:
-Experimental evidence**.
-<a href="../papers/jendow-20240331.pdf">Version of 31 March 2024</a>
 
 Rentschler, L. and Turocy, T.L.
 **Tu mihi soli places: An experiment on the competitiveness of

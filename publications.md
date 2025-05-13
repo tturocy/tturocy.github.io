@@ -5,6 +5,12 @@ title: Publications
 
 ### Refereed publications of original research
 
+Xue, L., Sitzia, S. and Turocy, T.L.
+**Bargaining over communal endowments after prior interaction:
+Experimental evidence**. (forthcoming)
+_Economic Theory_.
+<a href="../papers/jendow-20240331.pdf">Version of 31 March 2024</a>
+
 Bland, J.R. and Turocy, T. L.
 **Quantal response equilibrium as a structural model for estimation:
 The missing manual**. (2025)
