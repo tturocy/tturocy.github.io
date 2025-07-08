@@ -5,10 +5,19 @@ title: Publications
 
 ### Refereed publications of original research
 
-Xue, L., Sitzia, S. and Turocy, T.L.
+Marietta Leina, A., Patel, A., Sugden, R., and Turocy, T.L. (2025)
+**Rating rules in the helping game: An axiomatic approach**.
+[DOI: 10.1016/j.econlet.2025.112437](https://doi.org/10.1016/j.econlet.2025.112437)
+&middot;
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5252490">
+Version of 13 May 2025, as SSRN working paper 5252490</a>
+
+Xue, L., Sitzia, S. and Turocy, T.L. (2025)
 **Bargaining over communal endowments after prior interaction:
-Experimental evidence**. (forthcoming)
+Experimental evidence**.
 _Economic Theory_.
+[DOI: 10.1007/s00199-025-01663-3](https://doi.org/10.1007/s00199-025-01663-3)
+&middot;
 <a href="../papers/jendow-20240331.pdf">Version of 31 March 2024</a>
 
 Bland, J.R. and Turocy, T. L.
