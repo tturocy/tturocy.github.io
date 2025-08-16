@@ -5,8 +5,14 @@ title: Publications
 
 ### Refereed publications of original research
 
+Wang, Y., Elahi, T., Mavroudis, V., Plumb, E., Savani, R., and Turocy, T.L. (2025)
+**Empirical Mixnet Design**.
+_GameSec-25: The 16th Conference on Game Theory and AI for Security_.
+<a href="../papers/mixnet-20250816.pdf">Version of 16 August 2025</a>
+
 Marietta Leina, A., Patel, A., Sugden, R., and Turocy, T.L. (2025)
 **Rating rules in the helping game: An axiomatic approach**.
+_Economics Letters_.
 [DOI: 10.1016/j.econlet.2025.112437](https://doi.org/10.1016/j.econlet.2025.112437)
 &middot;
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5252490">
@@ -20,9 +26,9 @@ _Economic Theory_.
 &middot;
 <a href="../papers/jendow-20240331.pdf">Version of 31 March 2024</a>
 
-Bland, J.R. and Turocy, T. L.
+Bland, J.R. and Turocy, T. L. (2025)
 **Quantal response equilibrium as a structural model for estimation:
-The missing manual**. (2025)
+The missing manual**.
 _Games and Economic Behavior_.
 [DOI: 10.1016/j.geb.2025.02.008](https://doi.org/10.1016/j.geb.2025.02.008)
 &middot;
