@@ -70,7 +70,7 @@ Chowdhury, S.M., Mukherjee, A. and Turocy, T.L. (2022)
 **And the first runner-up is...:
 Comparing winner selection procedures in multi-winner Tullock
 contests**.
-_Review of Economic Design_.
+_Review of Economic Design_ 29: 447-477.
 [DOI: 10.1007/s10058-022-00315-5](https://link.springer.com/article/10.1007/s10058-022-00315-5)
 &middot;
 <a href="../papers/mwin-20220630.pdf">Version of 30 June 2022</a>
