@@ -26,6 +26,11 @@ bridge finding**.
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6953970">
 Version of 16 June 2026, as SSRN working paper 6953970</a>
 
+Pasteris, S., Savani, R., and Turocy, T.L.
+**Differential privacy in the extensive-form bandit problem**
+<a href="https://arxiv.org/abs/2605.05266">
+Version of 6 May 2026, as arXiv paper 2605.05266</a>
+
 Sugden, R., Turocy, T.L., and Wang, M.
 **The value of engagement: Measuring preferences between tasks with
 different characteristics**.
