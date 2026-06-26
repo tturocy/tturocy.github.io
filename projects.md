@@ -20,6 +20,12 @@ title: Projects
 
 ### Works in progress
 
+Kadnikov, D., Savani, R., and Turocy, T.L.
+**Linear-time subgame detection in extensive form games via
+bridge finding**.
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6953970">
+Version of 16 June 2026, as SSRN working paper 6953970</a>
+
 Sugden, R., Turocy, T.L., and Wang, M.
 **The value of engagement: Measuring preferences between tasks with
 different characteristics**.
