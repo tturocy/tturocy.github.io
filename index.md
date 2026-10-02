@@ -6,12 +6,11 @@ layout: page
 
 ## Professor Theodore L Turocy
 
-* Theme Lead, Game theory and collective decision making in foundational AI
-research, [The Alan Turing Institute](https://www.turing.ac.uk).
 * Professor, [School of Economics](https://www.uea.ac.uk/economics),
 [University of East Anglia](https://www.uea.ac.uk).
-* Director, [Laboratory for Economic and Decision Research](https://www.uea.ac.uk/about/school-of-economics/our-lab).
-* Vice President of Information,
+* Researcher, [The Alan Turing Institute](https://www.turing.ac.uk).
+* Co-Director, [Laboratory for Economic and Decision Research](https://www.uea.ac.uk/about/school-of-economics/our-lab).
+* Past Vice President of Information,
 [Economic Science Association](http://www.economicscience.org).
 * Past Associate Dean for Research,
 [Faculty of Social Sciences](https://www.uea.ac.uk/ssf),
@@ -33,15 +32,8 @@ timing and information.
 A strand of my research contributes to the standard application of
 game theory in economics and other disciplines.
 
-I am a theme lead at [The Alan Turing Institute](https://www.turing.ac.uk),
-where in the project 
-[Automated analysis of strategic interactions](https://www.turing.ac.uk/research/research-projects/automated-analysis-strategic-interactions)
-we are developing cutting-edge software tools for computing with finite games.
-This work will be available as part of the software package
-[Gambit: Software Tools for Game Theory](http://www.gambit-project.org).
-The project will support the development of automated agents able that can reason
-strategically about their environment, as well as enhance the reproducibility of
-the theoretical and empirical analysis of games.
+I am the principal developer of
+[Gambit: The package for computation in game theory](http://www.gambit-project.org).
 
 The behavioural strand of my work incorporates a richer notion of process, which takes into
 account the role that choice architecture, labeling, and social
