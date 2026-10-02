@@ -20,56 +20,6 @@ title: Projects
 
 ### Works in progress
 
-Kadnikov, D., Savani, R., and Turocy, T.L.
-**Linear-time subgame detection in extensive form games via
-bridge finding**.
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6953970">
-Version of 16 June 2026, as SSRN working paper 6953970</a>
-
-Pasteris, S., Savani, R., and Turocy, T.L.
-**Differential privacy in the extensive-form bandit problem**
-<a href="https://arxiv.org/abs/2605.05266">
-Version of 6 May 2026, as arXiv paper 2605.05266</a>
-
-Sugden, R., Turocy, T.L., and Wang, M.
-**The value of engagement: Measuring preferences between tasks with
-different characteristics**.
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5065762">
-Version of 12 December 2024, as SSRN working paper 5065762</a>
-
-Rentschler, L. and Turocy, T.L.
-**Tu mihi soli places: An experiment on the competitiveness of
-all-pay auctions with private information.**
-<a href="../papers/hcc-20171106.pdf">Version of 6 November 2017</a>
-
-
-Turocy, T.L. and Cason, T.N.
-**Bidding in first-price and second-price
-interdependent-values auctions: A laboratory experiment.**
-<a href="../papers/bava-20151218.pdf">Version of 18 December 2015</a>
-&middot;
-<a href="../papers/bava-supp-20151204.pdf">Supplementary appendix with
-bid function fits</a>
-&middot;
-<a href="../papers/bava-data.zip">Data and bid function fit scripts</a>
-&middot;
-<a href="../papers/bava-instructions.pdf">Full participant instructions,
-all treatments</a>
-
-Mayer, A. and Turocy, T.L.
-**Wage bargaining with direct competition and heterogeneous access to
-vacancies.**
-<a href="../papers/wagedisp-20131216.pdf">Version of 16 December
-2013</a>
-
-Turocy, T.L.
-**An inspection game model of the stolen base play
-in baseball: A theory of theft.**
-<a href="../papers/theft-20140822.pdf">Version of 22 August 2014</a>
-&middot;
-<a href="http://ssrn.com/abstract=2485178">As SSRN working paper 2485178</a>
-
-Kaplan, T.R. and Turocy, T.L.
-**Behavioural bidding in first-price auctions: Marginal or average-case reasoning.**
-
- 
+{% for item in site.data.publications.works_in_progress %}
+{% include publication.html item=item %}
+{% endfor %}
