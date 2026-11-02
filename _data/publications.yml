@@ -5,6 +5,21 @@ sections:
 - id: refereed
   title: Refereed publications of original research
   items:
+  - id: subgames
+    category: refereed
+    authors:
+    - Kadnikov, D.
+    - Savani, R.
+    - Turocy, T.L.
+    title: Linear-time subgame detection in extensive form games via bridge finding
+    venue: Information Processing Letters
+    note: forthcoming
+    doi: 10.1016/j.ipl.2026.106677
+    links:
+    - label: Version of 16 June 2026, as SSRN working paper 6953970
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6953970
+    authors_text: Kadnikov, D., Savani, R., and Turocy, T.L.
+    venue_html: <em>Information Processing Letters</em>, forthcoming.
   - id: qrefit
     category: refereed
     authors:
@@ -691,18 +706,6 @@ sections:
     authors_text: Turocy, T.L. and Savani, R.
     venue_html: ''
 works_in_progress:
-- id: subgames
-  category: manuscript
-  authors:
-  - Kadnikov, D.
-  - Savani, R.
-  - Turocy, T.L.
-  title: Linear-time subgame detection in extensive form games via bridge finding
-  links:
-  - label: Version of 16 June 2026, as SSRN working paper 6953970
-    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6953970
-  authors_text: Kadnikov, D., Savani, R., and Turocy, T.L.
-  venue_html: ''
 - id: bandit
   category: manuscript
   authors:
